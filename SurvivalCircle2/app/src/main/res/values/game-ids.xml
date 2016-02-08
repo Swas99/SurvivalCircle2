@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">409797139241</string>
+    <string name="package_name">com.archer.survival_circle_2</string>
+    <string name="achievement_pfftt_noob">CgkIqbbAzvYLEAIQAg</string>
+    <string name="achievement_at_least_you_are_trying_">CgkIqbbAzvYLEAIQAw</string>
+    <string name="achievement_you_can_do_better">CgkIqbbAzvYLEAIQBA</string>
+    <string name="achievement_the_fun_has_just_started">CgkIqbbAzvYLEAIQBQ</string>
+    <string name="achievement_somebody_is_getting_addicted">CgkIqbbAzvYLEAIQBg</string>
+    <string name="achievement_getting_used_to_things">CgkIqbbAzvYLEAIQBw</string>
+    <string name="achievement_you_are_becoming_a_pro">CgkIqbbAzvYLEAIQCA</string>
+    <string name="achievement_nailed_it">CgkIqbbAzvYLEAIQCQ</string>
+    <string name="leaderboard_top_score">CgkIqbbAzvYLEAIQAQ</string>
+</resources>
